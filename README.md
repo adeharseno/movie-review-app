@@ -11,9 +11,9 @@ A full-stack foundation for a movie review application. The current implementati
 
 ## Current milestone
 
-**M3 — OMDb Integration & Movie Search**
+**M4 — Movie Detail & User Scoring**
 
-Database-backed login, JWT sessions, and authenticated movie search are implemented. Movie details and scoring are not implemented yet.
+Database-backed login, JWT sessions, movie search, movie details, and per-user scoring are implemented.
 
 ## Project structure
 
