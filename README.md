@@ -11,9 +11,9 @@ A full-stack foundation for a movie review application. The current implementati
 
 ## Current milestone
 
-**M1 — Database Schema & Prisma Setup**
+**M2 — Authentication & JWT Session**
 
-Authentication, movie discovery, and scoring APIs are not implemented yet.
+Database-backed login and JWT sessions are implemented. Movie discovery and scoring APIs are not implemented yet.
 
 ## Project structure
 
