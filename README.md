@@ -11,9 +11,9 @@ A full-stack foundation for a movie review application. The current implementati
 
 ## Current milestone
 
-**M2 — Authentication & JWT Session**
+**M3 — OMDb Integration & Movie Search**
 
-Database-backed login and JWT sessions are implemented. Movie discovery and scoring APIs are not implemented yet.
+Database-backed login, JWT sessions, and authenticated movie search are implemented. Movie details and scoring are not implemented yet.
 
 ## Project structure
 
@@ -31,7 +31,9 @@ Database-backed login and JWT sessions are implemented. Movie discovery and scor
 cp .env.example .env
 ```
 
-The example values work for local Docker development. Replace placeholder secrets before deployment.
+The example values are sufficient to start the local Docker stack. Replace placeholder secrets before deployment.
+
+Set `OMDB_API_KEY` to a valid OMDb key to enable movie search.
 
 ## Start with Docker
 
